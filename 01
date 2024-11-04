@@ -4,89 +4,62 @@ kanggo pribados
 
 
 
+#EXTMU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fcc8/aejn48vwnvfgt6w5g.jpg" group-title="🇮🇩 tvN150N" ch-number="18" tvg-id="TVRI.id" tvg-name="TVRI", TVRI Nasional
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fcc8/aejn48vwnvfgt6w5g.jpg" group-title="NASIONAL" ch-number="01" tvg-id="tvri.id" tvg-name="TVRI", TVRI Nasional
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/e36706cff7ecd4edfe7bbd828f26788a683ef473/3f58825fe229a8f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/0646/tmp2cmfw8ec7d585g.jpg" group-title="NASIONAL" ch-number="02" tvg-id="OK TV.id" tvg-name="OK TV.id", FOOD TRAVEL (vision+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/0646/tmp2cmfw8ec7d585g.jpg" group-title="Entertainment" tvg-id="OK TV.id" tvg-name="OK TV.id", FOOD TRAVEL (vision+)
 https://d1abp075u76pbq.cloudfront.net/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd|Referer=https://www.visionplus.id
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/cbf4/k9aen2jhiwjq0wy5g.jpg" group-title="NASIONAL" ch-number="03" tvg-id="VisionPrime.id" tvg-name="Vision Prime HD", VISION PRIME (vision+) tvg-id="VisionPrime.id" tvg-name="Vision Prime HD", VISION PRIME (vision+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/cbf4/k9aen2jhiwjq0wy5g.jpg" group-title="VISION+" tvg-id="VisionPrime.id" tvg-name="Vision Prime HD", VISION PRIME (vision+)
 https://d1abp075u76pbq.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/ba48/v4a0nl3qgmsm4an5g.jpg" group-title="NASIONAL" tvg-id="BioskopIndonesia" ch-number="04" tvg-name="Bioskop Indonesia", BIOSKOP INDONESIA (indihome)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/ba48/v4a0nl3qgmsm4an5g.jpg" group-title="Movies" tvg-id="BioskopIndonesia" tvg-name="Bioskop Indonesia", BIOSKOP INDONESIA (indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2754/kvl7etstv4me3xz5g.jpg" group-title="NASIONAL" tvg-id="Maxstream" ch-number="05" tvg-name"Maxstream", MAXSTREAM (indihome)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2754/kvl7etstv4me3xz5g.jpg" group-title="Entertainment" tvg-id="Maxstream" tvg-name"Maxstream", MAXSTREAM (indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7194/axu626b8ztllyfw5g.jpg" group-title="NASIONAL" tvg-id="Moji" ch-number="06" tvg-name="Moji", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7194/axu626b8ztllyfw5g.jpg" group-title="lokal", MOJI
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7735/0lo84r2fik23aue5g.jpg" group-title="NASIONAL" tvg-id="MuslimTV.id" ch-number="07" tvg-name="Muslim TV", MUSLIM TV (vision+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7735/0lo84r2fik23aue5g.jpg" group-title="Religious" tvg-id="MuslimTV.id" tvg-name="Muslim TV - [Channel 92].id", MUSLIM TV (vision+)
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|Referer=https://www.visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/5a09/m6bdixgkmxqtp8p5g.jpg" group-title="lokal",Trans 7 (vision+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/5a09/m6bdixgkmxqtp8p5g.jpg" group-title="NASIONAL" tvg-id="Trans7.id" ch-number="08" tvg-name="Trans 7", Trans 7 (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/5a09/m6bdixgkmxqtp8p5g.jpg" group-title="Transvision" tvg-id="Trans7.id" tvg-name="Trans 7", Trans 7 (transvision)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/5a09/m6bdixgkmxqtp8p5g.jpg" group-title="lokal", TRANS 7 (indihome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4452/k5xwpv78hxipgg35g.jpg" group-title="lokal",TRANS TV (vision+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4452/k5xwpv78hxipgg35g.jpg" group-title="lokal",TRANS TV (indihome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4452/k5xwpv78hxipgg35g.jpg" group-title="NASIONAL" tvg-id="TransTV.id" ch-number="09" tvg-name="Trans TV", TransTV (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4452/k5xwpv78hxipgg35g.jpg" group-title="Transvision" tvg-id="TransTV.id" tvg-name="Trans TV", TransTV (transvision)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bfcc/lbegzyudtqutirx5g.jpg" group-title="lokal",SCTV (indihome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bfcc/lbegzyudtqutirx5g.jpg" group-title="lokal",SCTV (transvision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bfcc/lbegzyudtqutirx5g.jpg" group-title="lokal",SCTV (Firstmedia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bfcc/lbegzyudtqutirx5g.jpg" group-title="NASIONAL" tvg-id="sctv.id" ch-number="10" tvg-name="SCTV",SCTV (Firstmedia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/b21c/5ywsz8is4x48z855g.jpg" group-title="lokal",INDOSIAR (indihome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4a00/ewkh4l3yjqkhh0g5g.jpg" group-title="lokal",INDOSIAR (transvision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4a00/ewkh4l3yjqkhh0g5g.jpg" group-title="lokal",INDOSIAR (Firstmedia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4a00/ewkh4l3yjqkhh0g5g.jpg" group-title="NASIONAL" tvg-id="indosiar.id" tvg-name="INDOSIAR",INDOSIAR (Firstmedia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/85fc/exp2l2bzy70do215g.jpg" group-title="lokal",ANTV (indihome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/85fc/exp2l2bzy70do215g.jpg" group-title="lokal",ANTV (Firstmedia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
