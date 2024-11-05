@@ -83,10 +83,12 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
+================= BERITA =================
+
 == METRO TV ==
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
 #http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
