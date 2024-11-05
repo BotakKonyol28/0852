@@ -119,32 +119,20 @@ https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
 
 == INEWS ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg" group-title="NASIONAL" tvg-id="RctiPlus.id" ch-number="18" tvg-name="iNews",iNews (R+)
+https://1a-inews.rctiplus.id/inews-sdi.mpd|Referer=https://www.rctiplus.com
 
 == RCTI ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1710/k090a75p9qafavz5g.jpg" group-title="NASIONAL" tvg-id="RCTI.id" ch-number="19" tvg-name="RCTI", RCTI (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1710/k090a75p9qafavz5g.jpg" group-title="NASIONAL" tvg-id="RCTI.id" ch-number="19" tvg-name="RCTI", RCTI (R+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1710/k090a75p9qafavz5g.jpg" group-title="NASIONAL" tvg-id="RctiPlus.id.id" ch-number="19" tvg-name="RCTI", RCTI (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd|Referer=https://www.rctiplus.com
 
 == GTV ==
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.mediafire.com/convkey/8698/64wie86e2rdf4rh5g.jpg" group-title="NASIONAL" tvg-id="rctiplus.id" ch-number="20" tvg-name="GTV",GTV (V+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/8698/64wie86e2rdf4rh5g.jpg" group-title="NASIONAL" tvg-id="rctiplus.id" ch-number="20" tvg-name="GTV",GTV (R+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/8698/64wie86e2rdf4rh5g.jpg" group-title="NASIONAL" tvg-id="RctiPlus.id" ch-number="20" tvg-name="GTV",GTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd|Referer=https://www.rctiplus.com
 
 == MNC TV ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/af2b/b5w1c7zc00cauor5g.jpg" group-title="NASIONAL" tvg-id="rctiplus.id" ch-number="21" tvg-name="MNCTV", MNCTV (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/af2b/b5w1c7zc00cauor5g.jpg" group-title="NASIONAL" tvg-id="rctiplus.id" ch-number="21" tvg-name="MNCTV", MNCTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
