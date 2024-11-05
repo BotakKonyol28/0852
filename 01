@@ -63,38 +63,27 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
-
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/85fc/exp2l2bzy70do215g.jpg" group-title="NASIONAL" tvg-id="Antv.id" ch-number="12" tvg-name="ANTV",ANTV (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/85fc/exp2l2bzy70do215g.jpg" group-title="NASIONAL" tvg-id="Antv.id" ch-number="12" tvg-name="ANTV",ANTV (vision+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://www.mediafire.com/convkey/3dfc/grnv0cl6mlxe3265g.jpg", NET. (indihome)
+#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://www.mediafire.com/convkey/3dfc/grnv0cl6mlxe3265g.jpg", group-title="NASIONAL" tvg-id="Net.id" ch-number="13" tvg-name="NET.",NET. (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/3dfc/grnv0cl6mlxe3265g.jpg", NET.(transvision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685758bcfff01776bc7624307ab/manifest.mpd
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/8e77/vhpkzl09x27ryd45g.jpg", METRO_TV (vision+)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-#https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="LOKAL",METRO TV (denstv)
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="13" tvg-name="METRO TV",METRO TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="SHAREEXT@MPD~TRANSVISION",METRO TV (transvision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="13" tvg-name="METRO TV",METRO TV (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="lokal",TVONE (indihome)
