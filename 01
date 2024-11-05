@@ -34,7 +34,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 == MOJI ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7194/axu626b8ztllyfw5g.jpg" group-title="Dens.tv" group-title="NASIONAL" tvg-id="Moji.id" ch-number="06" tvg-name="Moji", MOJI
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7194/axu626b8ztllyfw5g.jpg" group-title="NASIONAL" tvg-id="Moji.id" ch-number="06" tvg-name="Moji", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
@@ -79,11 +79,9 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 == NET. ==
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://www.mediafire.com/convkey/3dfc/grnv0cl6mlxe3265g.jpg", group-title="NASIONAL" tvg-id="Net.id" ch-number="13" tvg-name="NET.",NET. (indihome)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/3dfc/grnv0cl6mlxe3265g.jpg", group-title="NASIONAL" tvg-id="Net.id" ch-number="13" tvg-name="NET.",NET. (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-
-================= BERITA =================
 
 == METRO TV ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
@@ -122,14 +120,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 
 == INEWS ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews
-#https://1a-inews.rctiplus.id/inews-sdi.mpd
-#https://1s1.rctiplus.id/inews2023.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (R+)
+#https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (R+)
 https://1a-inews.rctiplus.id/inews-sdi.mpd|Referer=https://www.rctiplus.com
 
 == RCTI ==
@@ -228,14 +222,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|Referer=https://www.visionplus.id/
 
 == MYKIDZ ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="" tvg-id="MyKidz.id" ch-number="29" tvg-name="My Kidz",My Kidz 1080p
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="" tvg-id="MyKidz.id" ch-number="29" tvg-name="My Kidz",My Kidz (V+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="" tvg-id="MyKidz.id" ch-number="29" tvg-name="My Kidz",My Kidz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|http-referrer=https://visionplus.id
 
 ============== SPORTS ===============
 
