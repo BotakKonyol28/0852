@@ -3,12 +3,6 @@
 ======= KANGGO PRIBADOS (NS Player) =======
 
 
-== TVRI NASIONAL ==
-#EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fcc8/aejn48vwnvfgt6w5g.jpg" group-title="NASIONAL" ch-number="01" tvg-id="tvri.id" tvg-name="TVRI", TVRI Nasional
-https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/e36706cff7ecd4edfe7bbd828f26788a683ef473/3f58825fe229a8f.m3u8
-
 == FOOD TRAVEL ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/0646/tmp2cmfw8ec7d585g.jpg" group-title="NASIONAL" ch-number="02" tvg-id="OK TV.id" tvg-name="OK TV.id", FOOD TRAVEL (vision+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -82,6 +76,12 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/3dfc/grnv0cl6mlxe3265g.jpg", group-title="NASIONAL" tvg-id="Net.id" ch-number="13" tvg-name="NET.",NET. (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+== TVRI NASIONAL ==
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fcc8/aejn48vwnvfgt6w5g.jpg" group-title="BERITA" ch-number="01" tvg-id="tvri.id" tvg-name="TVRI", TVRI Nasional
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/e36706cff7ecd4edfe7bbd828f26788a683ef473/3f58825fe229a8f.m3u8
 
 == METRO TV ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
