@@ -1,6 +1,6 @@
 #EXTM3U
 
-kanggo pribados
+========= KANGGO PRIBADOS (NS Player) =========
 
 
 
@@ -76,47 +76,47 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/8e77/vhpkzl09x27ryd45g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
 #http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/8e77/vhpkzl09x27ryd45g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV (transvision)
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="BERITA" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="NASIONAL" tvg-id="TvOne.id" ch-number="15" tvg-name="TvOne",TvOne (indihome)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="BERITA" tvg-id="TvOne.id" ch-number="15" tvg-name="TvOne",TvOne (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="NASIONAL" tvg-id="TvOne.id" ch-number="15" tvg-name="TvOne",TvOne (vision+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="BERITA" tvg-id="TvOne.id" ch-number="15" tvg-name="TvOne",TvOne (vision+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|http-referrer=https://visionplus.id
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="NASIONAL" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (vision+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="BERITA" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (vision+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 #https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="NASIONAL" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (denstv)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="BERITA" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (denstv)
 #EXTVLCOPT:http-user-agent=User Agent: Mozilla/5.0 (Android 13; Mobile; rv:130.0) Gecko/130.0 Firefox/130.0
 https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="NASIONAL" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (transvision)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="BERITA" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/216c/zj6otxhrjsgvj4h5g.jpg" group-title="NASIONAL" tvg-id="MNCNews.id" ch-number="17" tvg-name="SindoNewsTv",Sindo News (vision+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/216c/zj6otxhrjsgvj4h5g.jpg" group-title="BERITA" tvg-id="MNCNews.id" ch-number="17" tvg-name="SindoNewsTv",Sindo News (vision+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="NASIONAL" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews
 #https://1a-inews.rctiplus.id/inews-sdi.mpd
 #https://1s1.rctiplus.id/inews2023.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="NASIONAL" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (V+)
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="NASIONAL" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (R+)
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (R+)
 https://1a-inews.rctiplus.id/inews-sdi.mpd|Referer=https://www.rctiplus.com
 
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1710/k090a75p9qafavz5g.jpg" group-title="NASIONAL" tvg-id="RCTI.id" ch-number="19" tvg-name="RCTI", RCTI (V+)
