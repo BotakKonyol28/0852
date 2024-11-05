@@ -76,36 +76,34 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="13" tvg-name="METRO TV",METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b4f/ue6l7yz1w9zeqvh5g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="13" tvg-name="METRO TV",METRO TV (transvision)
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/8e77/vhpkzl09x27ryd45g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV
+#http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/8e77/vhpkzl09x27ryd45g.jpg" group-title="NASIONAL" tvg-id="MetroTv.id" ch-number="14" tvg-name="METRO TV",METRO TV (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="NASIONAL" tvg-id="TvOne.id" ch-number="14" tvg-name="TvOne",TvOne (indihome)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="NASIONAL" tvg-id="TvOne.id" ch-number="15" tvg-name="TvOne",TvOne (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="NASIONAL" tvg-id="TvOne.id" ch-number="14" tvg-name="TvOne",TvOne (vision+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2ef3/l2689dx6f8hmo8g5g.jpg" group-title="NASIONAL" tvg-id="TvOne.id" ch-number="15" tvg-name="TvOne",TvOne (vision+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|http-referrer=https://visionplus.id
+#https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|http-referrer=https://visionplus.id
 
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg", KOMPAS TV (vision+)
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="NASIONAL" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (vision+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 #https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="LOKAL",KOMPAS TV (denstv)
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="NASIONAL" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (denstv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8?|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="SHAREEXT@MPD~TRANSVISION",KOMPAS TV (transvision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/e0ba/qcv6jqin28jt1yo5g.jpg" group-title="NASIONAL" tvg-id="KompasTv.id" ch-number="16" tvg-name="KompasTv",KOMPAS TV (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://www.mediafire.com/convkey/216c/zj6otxhrjsgvj4h5g.jpg"Lokal Auto", SINDOnews (vision+)
