@@ -398,3 +398,33 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
+
+== TNT SPORTS 1 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4fe8/5xrdem2psvpljc95g.jpg" group-title="SPORTS" tvg-id="TNTSports.id" ch-number="61" tvg-name="TNTSports1", TNT SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+== TNT SPORTS 2 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7797/oorwjazk7fkkhlq5g.jpg" group-title="SPORTS" tvg-id="TNTSports.id" ch-number="62" tvg-name="TNTSports2", TNT SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+== TNT SPORTS 3 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2e55/5u63o43ju1p9rxl5g.jpg" group-title="SPORTS" tvg-id="TNTSports.id" ch-number="63" tvg-name="TNTSports3",TNT SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+== TNT SPORTS 4 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7657/3cyyjshshth9u6i5g.jpg" group-title="SPORTS" tvg-id="TNTSports.id" ch-number="64" tvg-name="TNTSports4",TNT SPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+== TNT SPORTS 5 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/0121/8kzveyu2ccf6h0t5g.jpg" group-title="SPORTS" tvg-id="TNTSports.id" ch-number="65" tvg-name="TNTSports5",TNT SPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
