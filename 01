@@ -119,7 +119,7 @@ https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
 
 == INEWS ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg" group-title="NASIONAL" tvg-id="RctiPlus.id" ch-number="18" tvg-name="iNews",iNews (R+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg" group-title="BERITA" tvg-id="RctiPlus.id" ch-number="18" tvg-name="iNews",iNews (R+)
 https://1a-inews.rctiplus.id/inews-sdi.mpd|Referer=https://www.rctiplus.com
 
 == RCTI ==
@@ -133,7 +133,7 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd|Referer=https://www.rctiplus.com
 https://1a-gtv.rctiplus.id/gtv-sdi.mpd|Referer=https://www.rctiplus.com
 
 == MNC TV ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/af2b/b5w1c7zc00cauor5g.jpg" group-title="NASIONAL" tvg-id="rctiplus.id" ch-number="21" tvg-name="MNCTV", MNCTV (R+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/af2b/b5w1c7zc00cauor5g.jpg" group-title="KARTUN" tvg-id="rctiplus.id" ch-number="21" tvg-name="MNCTV", MNCTV (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
 
@@ -206,7 +206,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|Referer=https://www.visionplus.id/
 
 == MYKIDZ ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="" tvg-id="MyKidz.id" ch-number="29" tvg-name="My Kidz",My Kidz
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="KARTUN" tvg-id="MyKidz.id" ch-number="29" tvg-name="My Kidz",My Kidz
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|http-referrer=https://visionplus.id
