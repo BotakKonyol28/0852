@@ -48,15 +48,13 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0b
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
+== SCTV ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bfcc/lbegzyudtqutirx5g.jpg" group-title="NASIONAL" tvg-id="sctv.id" ch-number="10" tvg-name="SCTV",SCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+https://warningfm.github.io/v3/live/str/id/2b8fc230e8f847b.m3u8
 
+== INDOSIAR ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/4a00/ewkh4l3yjqkhh0g5g.jpg" group-title="NASIONAL" tvg-id="indosiar.id" ch-number="11" tvg-name="INDOSIAR",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/85fc/exp2l2bzy70do215g.jpg" group-title="NASIONAL" tvg-id="Antv.id" ch-number="12" tvg-name="ANTV",ANTV (Firstmedia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
