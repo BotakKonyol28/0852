@@ -290,11 +290,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|r
 #https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 == SPOTV 2 ==
-#EXTVLCOPT:http-
-#EXTINF:-1 tvg-chno="204" tvg-logo="https://www.mediafire.com/convkey/bc42/eob8hqeio2bsy2h5g.jpg" group-title="SPORTS" tvg-id="SPOTV.id" ch-number="42" tvg-name="SPOTV",SPOTV 2 (V+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc42/eob8hqeio2bsy2h5g.jpg" group-title="SPORTS" tvg-id="SPOTV.id" ch-number="42" tvg-name="SPOTV 2",SPOTV 2 (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 13; Mobile; rv:130.0) Gecko/130.0 Firefox/130.0
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc42/eob8hqeio2bsy2h5g.jpg" group-title="SPORTS" tvg-id="SPOTV.id" ch-number="42" tvg-name="SPOTV",SPOTV 2 (indihome)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc42/eob8hqeio2bsy2h5g.jpg" group-title="SPORTS" tvg-id="SPOTV.id" ch-number="42" tvg-name="SPOTV 2",SPOTV 2 (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 13; Mobile; rv:130.0) Gecko/130.0 Firefox/130.0
 #https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
