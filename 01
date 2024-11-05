@@ -163,11 +163,6 @@ https://cdn10jtedge.indihometv.com/atm/hlsv3/indikids/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd|referrer=https://www.indihometv.com/
 
 == NICKELODEON ==
-#EXTINF:-1 tvgtvg-logo="https://www.mediafire.com/convkey/9b2f/yswa4vbwdzere0o5g.jpg" group-title="KARTUN" tvg-id="Nickelodeon.id" ch-number="25" tvg-name="Nickelodeon",NICKELODEON (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b2f/yswa4vbwdzere0o5g.jpg" group-title="KARTUN" tvg-id="Nickelodeon.id" ch-number="25" tvg-name="Nickelodeon",NICKELODEON (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
@@ -197,10 +192,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 
 == KIDS TV ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/6a1b/9a45fgly16a4gt45g.jpg" group-title="KARTUN" tvg-id="KidsTv.id" ch-number="28" tvg-name="KidsTv", Kids Tv (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/6a1b/9a45fgly16a4gt45g.jpg" group-title="KARTUN" tvg-id="KidsTv.id" ch-number="28" tvg-name="KidsTv", Kids Tv (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
 https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|Referer=https://www.visionplus.id/
