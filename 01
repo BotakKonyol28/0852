@@ -119,12 +119,8 @@ https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
 
 == INEWS ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/aec4/fx3eix9tmxfd2325g.jpg",group-title="BERITA" tvg-id="iNews.id" ch-number="18" tvg-name="iNews",iNews (R+)
-https://1a-inews.rctiplus.id/inews-sdi.mpd|Referer=https://www.rctiplus.com
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 == RCTI ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1710/k090a75p9qafavz5g.jpg" group-title="NASIONAL" tvg-id="RCTI.id" ch-number="19" tvg-name="RCTI", RCTI (V+)
