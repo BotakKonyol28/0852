@@ -122,7 +122,7 @@ https://1a-inews.rctiplus.id/inews-sdi.mpd|Referer=https://www.rctiplus.com
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1710/k090a75p9qafavz5g.jpg" group-title="NASIONAL" tvg-id="RCTI.id" ch-number="19" tvg-name="RCTI", RCTI (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referrer=https://visionplus.id
+#https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1710/k090a75p9qafavz5g.jpg" group-title="NASIONAL" tvg-id="RCTI.id" ch-number="19" tvg-name="RCTI", RCTI (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd|Referer=https://www.rctiplus.com
@@ -144,79 +144,71 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd|Referer=https://www.rctiplus.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
 
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bb78/1jq2plve8kjo6yp5g.jpg",RTV (Indihome)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bb78/1jq2plve8kjo6yp5g.jpg", group-title="NASIONAL" tvg-id="RTV.id" ch-number="22" tvg-name="RTV",RTV (Indihome)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://indihome.co.id/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bb78/1jq2plve8kjo6yp5g.jpg",RTV (Maxtream)
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bb78/1jq2plve8kjo6yp5g.jpg",RTV (transvision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68572841ba301729ce4a1343c17/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1202/y7zcnuhz7msjm1b5g.jpg",RTV (vision+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/1202/y7zcnuhz7msjm1b5g.jpg",group-title="NASIONAL" tvg-id="RTV.id" ch-number="22" tvg-name="RTV",RTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fb90/bnd6udx5o40ns1t5g.jpg" group-title="lokal kids",FUN PLANET (indihome) 3
+#https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|referrer=https://visionplus.id
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fb90/bnd6udx5o40ns1t5g.jpg" group-title="NASIONAL" tvg-id="FunPlanet.id" ch-number="23" tvg-name="Fun Planet",Fun Planet (indihome)
 #https://cdn09jtedge.indihometv.com/atm/hlsv3/indikids/indikids.m3u8?c
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fb90/bnd6udx5o40ns1t5g.jpg" group-title="lokal kids",FUN PLANET (indihome) 2
-#https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fb90/bnd6udx5o40ns1t5g.jpg" group-title="lokal kids",FUN PLANET (indihome)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fb90/bnd6udx5o40ns1t5g.jpg" group-title="KARTUN" tvg-id="FunPlanet.id" ch-number="23" tvg-name="Fun Planet",Fun Planet (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/hlsv3/indikids/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d37d/4xzlv2tkeoe5om65g.jpg" group-title="lokal kids",HOREE! (indihome)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d37d/4xzlv2tkeoe5om65g.jpg" group-title="KARTUN" tvg-id="Horee!.id" ch-number="24" tvg-name="HOREE!",HOREE! (indihome)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
-#EXTINF:-1 tvgtvg-logo="https://www.mediafire.com/convkey/9b2f/yswa4vbwdzere0o5g.jpg" group-title="lokal kids", NICKELODEON (vision+)
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd|referrer=https://www.indihometv.com/
+
+#EXTINF:-1 tvgtvg-logo="https://www.mediafire.com/convkey/9b2f/yswa4vbwdzere0o5g.jpg" group-title="KARTUN" tvg-id="Nickelodeon.id" ch-number="25" tvg-name="Nickelodeon",NICKELODEON (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/9b2f/yswa4vbwdzere0o5g.jpg" group-title="lokal kids", NICKELODEON (vision+)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9b2f/yswa4vbwdzere0o5g.jpg" group-title="KARTUN" tvg-id="Nickelodeon.id" ch-number="25" tvg-name="Nickelodeon",NICKELODEON (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d712/8tairb3kzcaqfri5g.jpg"lokal kids", NICKJR. (vision +)
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d712/8tairb3kzcaqfri5g.jpg" group-title="KARTUN" tvg-id="NickJr.id" ch-number="26" tvg-name="Nick Jr.",NICKJR. (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d712/8tairb3kzcaqfri5g.jpg"lokal kids", NICKJR. (Indihome)
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d712/8tairb3kzcaqfri5g.jpg" group-title="KARTUN" tvg-id="NickJr.id" ch-number="26" tvg-name="Nick Jr.",NICKJR. (Indihome)
 #https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bd7a/b3g1byub38xp2ba5g.jpg" group-title="KARTUN" tvg-id="CartoonNetwork.id" ch-number="27" tvg-name="Cartoon Network",Cartoon Network (transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bd7a/b3g1byub38xp2ba5g.jpg" group-title="lokal kids",CARTOON NETWORK (transvision)
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-#EXTINF:-1 group-title="SHAREEXT@MPD~INDIHOME"  tvg-logo="https://www.mediafire.com/convkey/bd7a/b3g1byub38xp2ba5g.jpg",CARTOON NETWORK[INDIHOME]
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+#EXTINF:-1 group-title=" tvg-logo="https://www.mediafire.com/convkey/bd7a/b3g1byub38xp2ba5g.jpg",group-title="KARTUN" tvg-id="CartoonNetwork.id" ch-number="27" tvg-name="Cartoon Network",Cartoon Network [INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bd7a/b3g1byub38xp2ba5g.jpg" group-title="Kids",Cartoon Network (INDI)
+#https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bd7a/b3g1byub38xp2ba5g.jpg" group-title="KARTUN" tvg-id="CartoonNetwork.id" ch-number="27" tvg-name="Cartoon Network",Cartoon Network (INDIHOME)
 #https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/6a1b/9a45fgly16a4gt45g.jpg" group-title="lokal kids", KIDSTV (vision+)
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/6a1b/9a45fgly16a4gt45g.jpg" group-title="KARTUN" tvg-id="KidsTv.id" ch-number="28" tvg-name="KidsTv", Kids Tv (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-#EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/6a1b/9a45fgly16a4gt45g.jpg" group-title="lokal kids", KIDSTV (vision+)
+#https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|referrer=https://visionplus.id
+#EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/6a1b/9a45fgly16a4gt45g.jpg" group-title="KARTUN" tvg-id="KidsTv.id" ch-number="28" tvg-name="KidsTv", Kids Tv (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
 https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd|Referer=https://www.visionplus.id/
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="lokal kids", MYKIDZ 1080p
+
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="" tvg-id="MyKidz.id" ch-number="29" tvg-name="My Kidz",My Kidz 1080p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="lokal Kids", MYKIDZ  (Vision+) Indonesia
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/bc1b/ryg51ul5tzegwwp5g.jpg" group-title="" tvg-id="MyKidz.id" ch-number="29" tvg-name="My Kidz",My Kidz (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 #EXTVLCOPT:http-referrer=https://visionplus.id
