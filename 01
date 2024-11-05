@@ -224,11 +224,13 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/79f2/e48bus3w2osa5y65g.jpg", group-title="SPORTS" tvg-id="OneChampionshipTv.id" ch-number="30" tvg-name="One Championship tv",One Championship tv
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
+== UNIFI SPORTS ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/13eb/nt4mzkjfx3r7i6i5g.jpg" group-title="SPORTS" tvg-id="unifisports.id" ch-number="31" tvg-name="Unifi Sports",Unifi Sports UFC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
+== FIGHT SPORTS ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7e73/pp4ccx8ig618ix05g.jpg" group-title="SPORTS" tvg-id="FightSports.id" ch-number="32" tvg-name="Fight Sports", Fight Sports (indihome)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -238,6 +240,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd|referrer=https://visionplus.id
 
+== REDBULL TV ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/be26/xtg94kige2y16g55g.jpg" group-title="SPORTS" tvg-id="RedbullTv.id" ch-number="33" tvg-name="Redbull Tv",Redbull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -270,13 +273,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://www.visionplus.id/
 
-
 == BRI LIGA 1 ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/19fc/2r6zl1b2ns7j3ft5g.jpg", group-title="SPORTS" tvg-id="Indosiar.id" ch-number="40" tvg-name="INDOSIAR",BRI LIGA 1 (live only)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 13; Mobile; rv:130.0) Gecko/130.0 Firefox/130.0
 https://rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be_output_0.m3u8?session=as2VV2hPNEfqbanj5rH9ok
 #https://rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be_output_0.m3u8?session=UPWyHUjTE3SsAoUhZfV2j8
-
 
 == SPOTV ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/ece7/tje0x820p8z89su5g.jpg" group-title="SPORTS" tvg-id="SPOTV.id" ch-number="41" tvg-name="SPOTV",SPOTV (V+)
@@ -319,15 +320,16 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 ==beINSports 4 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/0daf/l78qdko05rpwumj5g.jpg" group-title="SPORTS" tvg-id="beINSports.id" ch-number="46" tvg-name="beIN Sports 4", beIN Sports 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.mediafire.com/convkey/0daf/l78qdko05rpwumj5g.jpg", beIN Sports 4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
 == beINSports 5 ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/558e/tvser3vq8tiqbkm5g.jpg" group-title="SPORTS" tvg-id="beINSports.id" ch-number="46" tvg-name="beIN Sports 5",beIN Sports 5
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/558e/tvser3vq8tiqbkm5g.jpg" group-title="SPORTS" tvg-id="beINSports.id" ch-number="47" tvg-name="beIN Sports 5",beIN Sports 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
