@@ -428,3 +428,39 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+== ARENA SPORTS 1 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/a453/sstes60yg1ujcoe5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",ARENA SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+== ARENA SPORTS 2 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/38ef/ua66mk4lskgfpmb5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",ARENA SPORTSA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+== ARENA SPORTS 3 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d44b/qtn2m6k70x07yq95g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",ARENA SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+== ARENA SPORTS 4 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2e54/pgd8hihxu767um55g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",ARENA SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+== ARENA SPORTS 5 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9769/gkw4awvim5ttrlh5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="70" tvg-name="ARENA SPORTS 5",ARENA SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+== ARENA SPORTS 6 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/3f82/6e900ny9gdn4lve5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="71" tvg-name="ARENA SPORTS 6",ARENA SPORTS 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
