@@ -28,9 +28,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 == MOJI ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7194/axu626b8ztllyfw5g.jpg" group-title="NASIONAL" tvg-id="Moji.id" tvg-name="Moji", MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7194/axu626b8ztllyfw5g.jpg" group-title="NASIONAL" tvg-id="moji.id" tvg-name="MOJI",MOJI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 == MUSLIM TV ==
 #EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/7735/0lo84r2fik23aue5g.jpg" group-title="NASIONAL" tvg-id="MuslimTV.id" tvg-name="Muslim TV", MUSLIM TV
