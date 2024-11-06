@@ -470,3 +470,27 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+== V SPORTS FOOTBALL ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d300/a90hyuoutjzlwlu5g.jpg" group-title="SPORTS" tvg-id="VSport.id" tvg-name="V Sport Football",V Sport Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+== V SPORTS 1 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/fa2a/hu2kdyxvi1e518g5g.jpg" group-title="SPORTS" tvg-id="VSport.id" tvg-name="V Sport 1",V Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+== V SPORTS EXTRA ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2377/c0db7apl187bi1x5g.jpg" group-title="SPORTS" tvg-id="VSport.id" tvg-name="V Sport Extra",V Sport Extra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+
+== V SPORTS PREMIUM ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d797/cryr0r06cmxkcy65g.jpg" group-title="SPORTS" tvg-id="VSport.id" tvg-name="V Sport Premium",V Sport Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+https://cors-proxy.cooks.fyi/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
