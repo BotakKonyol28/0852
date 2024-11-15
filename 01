@@ -1,5 +1,8 @@
 #EXTM3U
 
+============= KANGGO PRIBADOS ============
+
+          ===== YUDHA TRIANA =====
 
 == TRANS 7 ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nPgZDc7/Trans-7.png" group-title="NASIONAL" tvg-id="trans7.id" ch-number="01" tvg-name="TRANS 7",TRANS 7
@@ -252,7 +255,7 @@ https://streaming.indihometv.com/joss/133/beib1/index.m3u8?c
 https://streaming.indihometv.com/joss/133/beib2/index.m3u8?c
 
 == SOCCER CHANNEL ==
-EXTINF:0 tvg-logo="https://www.mediafire.com/convkey/a115/0mkszf8fpjuvwik5g.jpg" group-title="SPORTS" tvg-id="soccerchannel.id" tvg-name="SOCCER CHANNEL",SOCCER CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jGgXPpc/20241115-024646.png" group-title="SPORTS" tvg-id="soccerchannel.id" tvg-name="SOCCER CHANNEL",SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
@@ -278,7 +281,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tYx7H4/20241115-043608.png", group-title="SPORTS" tvg-id="Indosiar.id" ch-number="39" tvg-name="INDOSIAR",BRI LIGA 1
-https://rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be_output_0.m3u8?session=as2VV2hPNEfqbanj5rH9ok
+https://rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be_output_0.m3u8?c
 
 == beINSports 1 ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9NxGTqK/20241113-041740.png" group-title="SPORTS" tvg-id="beINSports1.id" tvg-name="beIN Sports 1",beIN Sports 1
@@ -381,13 +384,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 == Abu Dhabi Sports 1 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D90GM9M/20241115-033827.png" group-title="sports" group-title="SPORTS" tvg-id="AbuDhabiSports1.id" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D90GM9M/20241115-033827.png" group-title="SPORTS" group-title="SPORTS" tvg-id="AbuDhabiSports1.id" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 
 == Abu Dhabi Sports 2 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CB53DZ8/20241115-033803.png" group-title="sports" group-title="SPORTS" tvg-id="AbuDhabiSports2.id" tvg-name="Abu Dhabi Sports 2",Abu Dhabi Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CB53DZ8/20241115-033803.png" group-title="SPORTS" group-title="SPORTS" tvg-id="AbuDhabiSports2.id" tvg-name="Abu Dhabi Sports 2",Abu Dhabi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
