@@ -419,7 +419,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 https://streaming.indihometv.com/joss/133/fightsport/index.m3u8?c
 
 == Arena Fight ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/b837/vh30fgxe16m0lnu5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA FIGHT",ARENA FIGHT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PrYkvKR/20241123-105312.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA FIGHT",ARENA FIGHT
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 == ARENA 1 PREMIUM ==
