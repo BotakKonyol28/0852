@@ -4,6 +4,14 @@
 
           ===== YUDHA TRIANA =====
 
+
+
+
+
+
+
+======== NS PLAYER ========
+
 == TRANS 7 ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nPgZDc7/Trans-7.png" group-title="NASIONAL" tvg-id="trans7.id" ch-number="01" tvg-name="TRANS 7",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -34,7 +42,7 @@ https://streaming.indihometv.com/atm/hlsv3/transtv/index.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3hw3ttR/20241111-062830.png" group-title="NASIONAL" tvg-id="sctv.id" ch-number="03" tvg-name="SCTV",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 ##https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd|Referer=https://www.indihometv.com
-##https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8?c
+https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3hw3ttR/20241111-062830.png" group-title="NASIONAL" tvg-id="sctv.id" ch-number="03" tvg-name="SCTV",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -44,7 +52,7 @@ https://streaming.indihometv.com/atm/hlsv3/transtv/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-https://cdnjktbpid22.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+##https://cdnjktbpid22.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 == INDOSIAR ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
@@ -53,12 +61,12 @@ https://cdnjktbpid22.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e6475
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
-##https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8?c
+https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+##https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 == ANTV ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lv0qqvZ/20241111-073552.png" group-title="NASIONAL" tvg-id="antv.id" ch-number="05" tvg-name="ANTV",ANTV
@@ -169,8 +177,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZXPrP9F/20241111-112732.png" group-title="KARTUN" tvg-id="cartoonnetwork.id" ch-number="18" tvg-name="CARTOON NETWORK",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
+##https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8?c
 
 == HOREE! ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJP6vGT/20241111-122526.png" group-title="KARTUN" tvg-id="horee.id" ch-number="19" tvg-name="HOREE!",HOREE!
@@ -232,20 +241,6 @@ https://streaming.indihometv.com/joss/134/ochannel/index.m3u8?c
 
 #EXTM3U
 
-== One Championship tv ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pWRdgTX/20241113-033501.png", group-title="SPORTS" tvg-id="OneChampionshipTv.id" tvg-name="One Championship tv",One Championship tv
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
-
-== Unifi Sports UFC ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XDq3Q8C/20241113-031458.png" group-title="SPORTS" tvg-id="unifisports.id" tvg-name="Unifi Sports",Unifi Sports UFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-== FIGHT SPORTS ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6PgmV92/20241113-035039.png" group-title="SPORTS" tvg-id="FightSports.id" tvg-name="FIGHT SPORTS",FIGHT SPORTS
-https://streaming.indihometv.com/joss/133/fightsport/index.m3u8?c
-
 == SPOTV ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DKmxpk9/20241113-035952.png" group-title="SPORTS" tvg-id="spotv.id" tvg-name="SPOTV",SPOTV
 https://streaming.indihometv.com/joss/133/beib1/index.m3u8?c
@@ -278,10 +273,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9H6vL5b/20241113-044727.png" group-title="SPORTS" tvg-id="Sporstars3.id" tvg-name="Sporstars 3",Sporstars 3 BRI liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://www.visionplus.id/
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://www.visionplus.id/
 
+== BRI LIGA 1 ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tYx7H4/20241115-043608.png", group-title="SPORTS" tvg-id="Indosiar.id" ch-number="39" tvg-name="INDOSIAR",BRI LIGA 1
-https://rakuda.online:8443/memfs/fddea167-9689-4113-8e40-64d756d8e9be_output_0.m3u8?c
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162138
+#http://xtv.ooo:8080/live/danyear12/am809100/350972.ts
+#http://xtv.ooo:8080/live/30912088/60996054/350972.ts
 
 == beINSports 1 ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9NxGTqK/20241113-041740.png" group-title="SPORTS" tvg-id="beINSports1.id" tvg-name="beIN Sports 1",beIN Sports 1
@@ -399,3 +397,105 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+== ARENA SPORTS Premier League==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/c24f/qekjzwbyvle14i95g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name="ARENA SPORTS PL", ARENA SPORTS PL
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
+== One Championship tv ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pWRdgTX/20241113-033501.png", group-title="SPORTS" tvg-id="OneChampionshipTv.id" tvg-name="One Championship tv",One Championship tv
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/668c5d3bfd9eb2000882bb50/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+== Unifi Sports UFC ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XDq3Q8C/20241113-031458.png" group-title="SPORTS" tvg-id="unifisports.id" tvg-name="Unifi Sports",Unifi Sports UFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+== FIGHT SPORTS ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6PgmV92/20241113-035039.png" group-title="SPORTS" tvg-id="FightSports.id" tvg-name="FIGHT SPORTS",FIGHT SPORTS
+https://streaming.indihometv.com/joss/133/fightsport/index.m3u8?c
+
+== Arena Fight ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/b837/vh30fgxe16m0lnu5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA FIGHT",ARENA FIGHT
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+
+== ARENA 1 PREMIUM ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2c45/y3ao39632hfaar95g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 1 PREMIUM",ARENA 1 PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+== ARENA 2 PREMIUM ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/61ef/7ggr2outmw4riac5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 2 PREMIUM",ARENA 2 PREMIUM
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+== ARENA 3 PREMIUM ==
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://www.mediafire.com/convkey/cbd5/nijecq6oauzkr8g5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 3 PREMIUM
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+== ARENA SPORTS 1 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/a453/sstes60yg1ujcoe5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",SPORTS 1
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+== ARENA SPORTS 2 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/38ef/ua66mk4lskgfpmb5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",SPORTS 2
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+== ARENA SPORTS 3 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d44b/qtn2m6k70x07yq95g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",SPORTS 3
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+== ARENA SPORTS 4 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2e54/pgd8hihxu767um55g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",SPORTS 4
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+== ARENA SPORTS 5 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9769/gkw4awvim5ttrlh5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="70" tvg-name="ARENA SPORTS 5",ARENA SPORTS 5
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+== ARENA SPORTS 6 ==
+#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/3f82/6e900ny9gdn4lve5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="71" tvg-name="ARENA SPORTS 6",ARENA SPORTS 6
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+== ESPN ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Nt367yR/20241123-101150.png" group-title="SPORTS" tvg-id="espn.id" ch-number="54" tvg-name="ESPN", ESPN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+
+== ESPN 2 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qk8by7t/20241123-095655.png" group-title="SPORTS" tvg-id="espn.id" ch-number="55" tvg-name="ESPN 2", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+== ESPN 3 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4YtgJqw/20241123-095805.png" group-title="SPORTS" tvg-id="espn.id" ch-number="56" tvg-name="ESPN 3", ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
+
+== ESPN 4 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gJtcwZZ/20241123-095930.png" group-title="SPORTS" tvg-id="espn.id" ch-number="57" tvg-name="ESPN 4", ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
+== ESPN 5 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SJPnkzm/20241123-095543.png" group-title="SPORTS" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 5", ESPN 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+
+== ESPN 6 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KLCT1p2/20241123-095424.png" group-title="SPORTS" tvg-id="espn.id" ch-number="59" tvg-name="ESPN 6", ESPN 6
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
+
+== ESPN 7 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HB90WyJ/20241123-095218.png" group-title="SPORTS" tvg-id="espn.id" ch-number="60" tvg-name="ESPN 7", ESPN 7
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
