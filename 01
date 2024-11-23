@@ -399,7 +399,7 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 == ARENA SPORTS Premier League==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/c24f/qekjzwbyvle14i95g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name="ARENA SPORTS PL", ARENA SPORTS PL
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3B4mjVX/20241123-104516.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name="ARENA SPORTS PL", ARENA SPORTS PL
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 == One Championship tv ==
@@ -417,45 +417,45 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 https://streaming.indihometv.com/joss/133/fightsport/index.m3u8?c
 
 == Arena Fight ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/b837/vh30fgxe16m0lnu5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA FIGHT",ARENA FIGHT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PrYkvKR/20241123-105312.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA FIGHT",ARENA FIGHT
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 == ARENA 1 PREMIUM ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2c45/y3ao39632hfaar95g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 1 PREMIUM",ARENA 1 PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0BPj1CB/20241122-180023.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 1 PREMIUM",ARENA 1 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 
 == ARENA 2 PREMIUM ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/61ef/7ggr2outmw4riac5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 2 PREMIUM",ARENA 2 PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XYnYZJ7/20241122-175534.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 2 PREMIUM",ARENA 2 PREMIUM
 https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 
 == ARENA 3 PREMIUM ==
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://www.mediafire.com/convkey/cbd5/nijecq6oauzkr8g5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 3 PREMIUM
+#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://i.ibb.co.com/hsB6Jvs/20241122-174647.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 3 PREMIUM
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 == ARENA SPORTS 1 ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/a453/sstes60yg1ujcoe5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D4B0kdh/20241122-181212.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",SPORTS 1
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 == ARENA SPORTS 2 ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/38ef/ua66mk4lskgfpmb5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jM2DFPd/20241122-181247.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",SPORTS 2
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 == ARENA SPORTS 3 ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/d44b/qtn2m6k70x07yq95g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TTrcXWg/20241122-181315.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",SPORTS 3
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 == ARENA SPORTS 4 ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/2e54/pgd8hihxu767um55g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XsrFpzD/20241122-181341.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",SPORTS 4
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 == ARENA SPORTS 5 ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/9769/gkw4awvim5ttrlh5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="70" tvg-name="ARENA SPORTS 5",ARENA SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TrHjNMm/20241122-181408.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="70" tvg-name="ARENA SPORTS 5",ARENA SPORTS 5
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 == ARENA SPORTS 6 ==
-#EXTINF:-1 tvg-logo="https://www.mediafire.com/convkey/3f82/6e900ny9gdn4lve5g.jpg" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="71" tvg-name="ARENA SPORTS 6",ARENA SPORTS 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k5fDC5q/20241122-181439.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="71" tvg-name="ARENA SPORTS 6",ARENA SPORTS 6
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 == ESPN ==
