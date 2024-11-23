@@ -449,28 +449,28 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 == ARENA SPORTS 1 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qJHX4XY/20241123-120927.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qJHX4XY/20241123-120927.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",ARENA SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 == ARENA SPORTS 2 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GpSrqmR/20241123-120953.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GpSrqmR/20241123-120953.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",ARENA SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 == ARENA SPORTS 3 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VTGQwbh/20241123-121017.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VTGQwbh/20241123-121017.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",ARENA SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 == ARENA SPORTS 4 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jvhGLwx/20241123-121040.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jvhGLwx/20241123-121040.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",ARENA SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
