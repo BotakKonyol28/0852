@@ -433,7 +433,7 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 
 == ARENA 3 PREMIUM ==
-#EXTINF:-1 group-title="ARENA SPORT" tvg-logo="https://i.ibb.co.com/hsB6Jvs/20241122-174647.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 3 PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hsB6Jvs/20241122-174647.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 3 PREMIUM
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 == ARENA SPORTS 1 ==
