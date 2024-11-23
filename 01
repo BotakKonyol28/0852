@@ -428,63 +428,63 @@ https://streaming.indihometv.com/joss/133/fightsport/index.m3u8?c
 https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 
 == ARENA 1 PREMIUM ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0BPj1CB/20241122-180023.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 1 PREMIUM",ARENA 1 PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FbVPZFY/20241123-120833.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 1 PREMIUM",ARENA 1 PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 
 == ARENA 2 PREMIUM ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XYnYZJ7/20241122-175534.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 2 PREMIUM",ARENA 2 PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJq9zJ3/20241123-120851.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 2 PREMIUM",ARENA 2 PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 
 == ARENA 3 PREMIUM ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hsB6Jvs/20241122-174647.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 3 PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/y0xYWm3/20241123-120806.png" group-title="SPORTS" tvg-id="ArenaSport.id" tvg-name=",ARENA 3 PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
 == ARENA SPORTS 1 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D4B0kdh/20241122-181212.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qJHX4XY/20241123-120927.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="66" tvg-name="ARENA SPORTS 1",SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
 == ARENA SPORTS 2 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jM2DFPd/20241122-181247.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GpSrqmR/20241123-120953.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="67" tvg-name="ARENA SPORTS 2",SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
 
 == ARENA SPORTS 3 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TTrcXWg/20241122-181315.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VTGQwbh/20241123-121017.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="68" tvg-name="ARENA SPORTS 3",SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
 == ARENA SPORTS 4 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XsrFpzD/20241122-181341.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",SPORTS 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jvhGLwx/20241123-121040.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="69" tvg-name="ARENA SPORTS 4",SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 == ARENA SPORTS 5 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TrHjNMm/20241122-181408.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="70" tvg-name="ARENA SPORTS 5",ARENA SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LZmGPwF/20241123-121101.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="70" tvg-name="ARENA SPORTS 5",ARENA SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
 == ARENA SPORTS 6 ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k5fDC5q/20241122-181439.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="71" tvg-name="ARENA SPORTS 6",ARENA SPORTS 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sbJhcmJ/20241123-121121.png" group-title="SPORTS" tvg-id="ArenaSport.id" ch-number="71" tvg-name="ARENA SPORTS 6",ARENA SPORTS 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
