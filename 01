@@ -414,6 +414,46 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd|Refe
 ##https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd|Referer=https://www.visionplus.id
 
+== CHAMPIONS 1 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hcQjv3P/20241124-162336.png" group-title="SPORTS",ChampionsTv 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
+
+== CHAMPIONS 2 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FhSz94r/20241124-162312.png" group-title="SPORTS",ChampionsTv 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
+
+== CHAMPIONS 3 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5Lsg3f7/20241124-162246.png" group-title="SPORTS",ChampionsTv 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+
+== CHAMPIONS 5 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KbkfNTZ/20241124-162214.png" group-title="SPORTS",ChampionsTv 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+
+== CHAMPIONS 6 ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TYRGbSc/20241124-161755.png" group-title="SPORTS",ChampionsTv 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+
 == DAZN 1 ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YW5hKsg/20241115-031126.png" group-title="SPORTS" tvg-id="Dazn.id" tvg-name="DAZN 1",DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
