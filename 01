@@ -127,7 +127,7 @@ https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
 ##https://streaming.indihometv.com/atm/hlsv3/tvone/index.m3u8?c
 
 == TV ONE CUBMU ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tbwfR9r/20241111-082407.png" group-title="CUBMU" tvg-name="TVONE", TVOne
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tbwfR9r/20241111-082407.png" group-title="NASIONAL" tvg-id="tvone.id" ch-number="07" tvg-name="TVOne",TVOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -158,7 +158,7 @@ https://cdnjktbpid22.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e548c
 ##https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/index.m3u8?c
 
 == KOMPAS TV CUBMU ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hnq6vvZ/20241111-093703.png" group-title="CUBMU" tvg-name="KOMPAS TV", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hnq6vvZ/20241111-093703.png" group-title="NASIONAL" tvg-id="kompastv.id" ch-number="09" tvg-name="KOMPAS TV",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -200,7 +200,7 @@ https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
 ##https://streaming.indihometv.com/joss/130/rtv/index.m3u8?c
 
 == RTV CUBMU ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W2scVRy/20241111-102826.png" group-title="CUBMU" tvg-name="RTV", RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W2scVRy/20241111-102826.png" group-title="NASIONAL" tvg-id="rtv.id" ch-number="15" tvg-name="RTV",RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -237,7 +237,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.m
 ##https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8?c
 
 == CARTOON NETWORK CUBMU ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZXPrP9F/20241111-112732.png" group-title="CUBMU" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZXPrP9F/20241111-112732.png" group-title="KARTUN" tvg-id="cartoonnetwork.id" ch-number="18" tvg-name="CARTOON NETWORK",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -279,7 +279,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|ref
 ##https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8?c
 
 == BIOSKOP INDONESIA CUBMU ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WBm6yr9/20241111-140516.png" group-title="CUBMU" tvg-name="BIOSKOP INDONESIA", Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WBm6yr9/20241111-140516.png" group-title="NASIONAL" tvg-id="bioskopindonesia.id" ch-number="23" tvg-name="BIOSKOP INDONESIA",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -299,7 +299,7 @@ https://streaming.indihometv.com/joss/194/maxstream/index.m3u8?c
 ##https://streaming.indihometv.com/joss/130/insert/index.m3u8?c
 
 == INSERT CUBMU ==
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XkyWm7L/20241111-140705.png" group-title="CUBMU" tvg-name="INSERT", !NSERT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XkyWm7L/20241111-140705.png" group-title="NASIONAL" tvg-id="insert.id" ch-number="25" tvg-name="INSERT",INSERT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
