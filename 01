@@ -13,47 +13,55 @@
 ======== NS PLAYER ========
 
 #EXTM3U
-== TRANS 7 ==
+== TRANS 7 indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nPgZDc7/Trans-7.png" group-title="NASIONAL" tvg-id="trans7.id" ch-number="01" tvg-name="TRANS 7",TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/trans7/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/trans7/index.m3u8?c
+
+== TRANS 7 CUBMU ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nPgZDc7/Trans-7.png" group-title="NASIONAL" tvg-id="trans7.id" ch-number="01" tvg-name="TRANS 7",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-##https://cdnjktbpid22.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+https://cdnjktbpid22.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-== TRANS TV ==
+== TRANS TV indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1gdrf7/20241111-060141.png" group-title="NASIONAL" tvg-id="transtv.id" ch-number="02" tvg-name="TRANS TV",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/transtv/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/transtv/index.m3u8?c
+
+== TRANS TV CUBMU ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1gdrf7/20241111-060141.png" group-title="NASIONAL" tvg-id="transtv.id" ch-number="02" tvg-name="TRANS TV",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-##https://cdnjktbpid22.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+https://cdnjktbpid22.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-== SCTV ==
+== SCTV indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3hw3ttR/20241111-062830.png" group-title="NASIONAL" tvg-id="sctv.id" ch-number="03" tvg-name="SCTV",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 ##https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8?c
+
+== SCTV ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3hw3ttR/20241111-062830.png" group-title="NASIONAL" tvg-id="sctv.id" ch-number="03" tvg-name="SCTV",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+== SCTV CUBMU ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3hw3ttR/20241111-062830.png" group-title="NASIONAL" tvg-id="sctv.id" ch-number="03" tvg-name="SCTV",SCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-##https://cdnjktbpid22.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+https://cdnjktbpid22.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 == INDOSIAR ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
@@ -61,26 +69,32 @@ https://streaming.indihometv.com/atm/hlsv3/sctv/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+== INDOSIAR indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
 https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8?c
+
+== INDOSIAR CUBMU ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-##https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-== ANTV ==
+== ANTV CUBMU ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lv0qqvZ/20241111-073552.png" group-title="NASIONAL" tvg-id="antv.id" ch-number="05" tvg-name="ANTV",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-##https://cdnjktbpid22.transvision.co.id/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+https://cdnjktbpid22.transvision.co.id/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+
+== ANTV indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lv0qqvZ/20241111-073552.png" group-title="NASIONAL" tvg-id="antv.id" ch-number="05" tvg-name="ANTV",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/ANTV/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/ANTV/index.m3u8?c
 
 == NET. ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NYZmNh5/20241111-074352.png" group-title="NASIONAL" tvg-id="net.id" ch-number="06" tvg-name="NET",NET.
@@ -95,21 +109,36 @@ https://streaming.indihometv.com/atm/hlsv3/ANTV/index.m3u8?c
 ##https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd|Referer=https://www.indihometv.com
 https://streaming.indihometv.com/joss/133/net/index.m3u8?c
 
-== TVONE ==
+== TV ONE indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tbwfR9r/20241111-082407.png" group-title="NASIONAL" tvg-id="tvone.id" ch-number="07" tvg-name="TVOne",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/tvone/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/tvone/index.m3u8?c
 
-== METRO TV ==
+== TV ONE CUBMU ==
+#EXTINF:-1 tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68585a001440186343e1a562244/509958d1f3ef43f59d1ce189ed9a5296.png" group-title="CUBMU" tvg-name="TVONE", TVOne
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
+
+== METRO TV indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k6fjpxm/20241111-085147.png" group-title="NASIONAL" tvg-id="metrotv.id" ch-number="08" tvg-name="METRO TV",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/METRO_TV/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/METRO_TV/index.m3u8?c
+
+== METRO TV CUBMU ==
+#EXTINF:-1 tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png" group-title="CUBMU" tvg-name="METRO TV", METRO TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+https://cdnjktbpid22.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
+
 
 == KOMPAS TV ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hnq6vvZ/20241111-093703.png" group-title="NASIONAL" tvg-id="kompastv.id" ch-number="09" tvg-name="KOMPAS TV",KOMPAS TV
@@ -117,7 +146,14 @@ https://streaming.indihometv.com/atm/hlsv3/METRO_TV/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/index.m3u8?c
+
+== KOMPAS TV CUBMU ==
+#EXTINF:-1 tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="CUBMU" tvg-name="KOMPAS TV", KOMPAS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+https://cdnjktbpid22.transvision.co.id/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
 == SINDO TV ==
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://i.ibb.co.com/6gGFFgs/20241111-095229.png"Lokal Auto" group-title="NASIONAL" tvg-id="SINDOnews.id" ch-number="10" tvg-name="SINDO TV",SINDO TV
@@ -146,26 +182,35 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd|Referer=https://www.rctiplus.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd|Referer=https://www.rctiplus.com
 
-== RTV ==
+== RTV indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/W2scVRy/20241111-102826.png" group-title="NASIONAL" tvg-id="rtv.id" ch-number="15" tvg-name="RTV",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/joss/130/rtv/index.m3u8?c
+##https://streaming.indihometv.com/joss/130/rtv/index.m3u8?c
 
-== NICKELODEON ==
+== RTV CUBMU ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W2scVRy/20241111-102826.png" group-title="CUBMU" tvg-name="RTV", RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+https://cdnjktbpid22.transvision.co.id/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
+
+== NICKELODEON V+ ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6bdYkx/20241111-104901.png" group-title="KARTUN" tvg-id="nickelodeon.id" ch-number="16" tvg-name="NICKELODEON", NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-##https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/
+
+== NICKELODEON indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6bdYkx/20241111-104901.png" group-title="KARTUN" tvg-id="nickelodeon.id" ch-number="16" tvg-name="NICKELODEON", NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://streaming.indihometv.com/atm/DASH/nickelodeon/manifest.mpd|Referer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/hlsv3/nickelodeon/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/nickelodeon/index.m3u8?c
 
 == NICK JR. ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g6241tT/20241111-111758.png" group-title="KARTUN" tvg-id="nickjr.id" ch-number="17" tvg-name="NICK JR.",NICK JR.
@@ -174,13 +219,20 @@ https://streaming.indihometv.com/atm/hlsv3/nickelodeon/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
 https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|http-referrer=https://visionplus.id
 
-== CARTOON NETWORK ==
+== CARTOON NETWORK indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZXPrP9F/20241111-112732.png" group-title="KARTUN" tvg-id="cartoonnetwork.id" ch-number="18" tvg-name="CARTOON NETWORK",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
 ##https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
-https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8?c
+##https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8?c
+
+== CARTOON NETWORK CUBMU ==
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="CUBMU" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 == HOREE! ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zJP6vGT/20241111-122526.png" group-title="KARTUN" tvg-id="horee.id" ch-number="19" tvg-name="HOREE!",HOREE!
@@ -215,7 +267,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|ref
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8?c
+##https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8?c
+
+== BIOSKOP INDONESIA CUBMU ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WBm6yr9/20241111-140516.png" group-title="CUBMU" tvg-name="BIOSKOP INDONESIA", Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 == MAXSTREAM ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5G8j43p/20241111-140402.png" group-title="NASIONAL" tvg-id="maxstream.id" ch-number="24" tvg-name="MAXSTREAM",MAXSTREAM
@@ -225,10 +284,17 @@ https://streaming.indihometv.com/joss/130/bioskopindonesia/index.m3u8?c
 ##https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://streaming.indihometv.com/joss/194/maxstream/index.m3u8?c
 
-== INSERT ==
+== INSERT indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XkyWm7L/20241111-140705.png" group-title="NASIONAL" tvg-id="insert.id" ch-number="25" tvg-name="INSERT",INSERT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
-https://streaming.indihometv.com/joss/130/insert/index.m3u8?c
+##https://streaming.indihometv.com/joss/130/insert/index.m3u8?c
+
+== INSERT CUBMU ==
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XkyWm7L/20241111-140705.png" group-title="CUBMU" tvg-name="INSERT", !NSERT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+https://cdnjktbpid22.transvision.co.id/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 == MOJI ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/93CtDDG/20241111-142126.png" group-title="NASIONAL" tvg-id="moji.id" ch-number="26" tvg-name="MOJI", MOJI
