@@ -74,7 +74,7 @@ https://cdnjktbpid22.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e6475
 
 == INDOSIAR indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
-https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8?c
+##https://streaming.indihometv.com/atm/hlsv3/indosiar/index.m3u8?c
 
 == INDOSIAR CUBMU ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C2073NB/20241111-070310.png" group-title="NASIONAL" ch-number="04" tvg-id="Indosiar.id" tvg-name="Indosiar", INDOSIAR
