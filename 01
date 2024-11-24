@@ -211,7 +211,7 @@ https://cdnjktbpid22.transvision.co.id/live/master/5/4028c68572841ba301729ce4a13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/
+##https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd|Referer=https://www.visionplus.id/
 
 == NICKELODEON indihometv ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z6bdYkx/20241111-104901.png" group-title="KARTUN" tvg-id="nickelodeon.id" ch-number="16" tvg-name="NICKELODEON", NICKELODEON
@@ -219,7 +219,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelode
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 ##https://streaming.indihometv.com/atm/DASH/nickelodeon/manifest.mpd|Referer=https://www.indihometv.com
-##https://streaming.indihometv.com/atm/hlsv3/nickelodeon/index.m3u8?c
+https://streaming.indihometv.com/atm/hlsv3/nickelodeon/index.m3u8?c
 
 == NICK JR. ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g6241tT/20241111-111758.png" group-title="KARTUN" tvg-id="nickjr.id" ch-number="17" tvg-name="NICK JR.",NICK JR.
