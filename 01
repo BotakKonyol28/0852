@@ -118,7 +118,7 @@ https://streaming.indihometv.com/joss/133/net/index.m3u8?c
 ##https://streaming.indihometv.com/atm/hlsv3/tvone/index.m3u8?c
 
 == TV ONE CUBMU ==
-#EXTINF:-1 tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68585a001440186343e1a562244/509958d1f3ef43f59d1ce189ed9a5296.png" group-title="CUBMU" tvg-name="TVONE", TVOne
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tbwfR9r/20241111-082407.png" group-title="CUBMU" tvg-name="TVONE", TVOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -133,7 +133,7 @@ https://cdnjktbpid22.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6df935
 ##https://streaming.indihometv.com/atm/hlsv3/METRO_TV/index.m3u8?c
 
 == METRO TV CUBMU ==
-#EXTINF:-1 tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png" group-title="CUBMU" tvg-name="METRO TV", METRO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k6fjpxm/20241111-085147.png" group-title="CUBMU" tvg-name="METRO TV", METRO TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -149,7 +149,7 @@ https://cdnjktbpid22.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e548c
 ##https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/index.m3u8?c
 
 == KOMPAS TV CUBMU ==
-#EXTINF:-1 tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="CUBMU" tvg-name="KOMPAS TV", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Hnq6vvZ/20241111-093703.png" group-title="CUBMU" tvg-name="KOMPAS TV", KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
@@ -228,7 +228,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.m
 ##https://streaming.indihometv.com/joss/194/cartoonnetwork/index.m3u8?c
 
 == CARTOON NETWORK CUBMU ==
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="CUBMU" tvg-name="CARTOON NETWORK", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZXPrP9F/20241111-112732.png" group-title="CUBMU" tvg-name="CARTOON NETWORK", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
